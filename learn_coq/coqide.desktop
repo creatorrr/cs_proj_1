@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=8.6
-Name=CoqIDE
-Comment=This is my CoqIDE
-Exec=coqide
-Icon=/home/diwank/Icons/coq.ico
-Terminal=false
-Type=Application
-Categories=Utility;Application;
